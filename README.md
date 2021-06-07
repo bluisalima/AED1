@@ -1,5 +1,5 @@
 # Algoritmos e Estrutura de Dados 1
- Exercícios propostos da disciplina de AED1 (Ciência da Computação - UFPEL)
+ Exercícios propostos da disciplina de AED1 (Ciência da Computação - UFPEL) resolvidos em C.
  
  __1. Estrutura de Dados__
  * [Pilha](link)
