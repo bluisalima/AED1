@@ -11,4 +11,4 @@
 * [Insertion Sort](link)
 * [Selection Sort]()
 * [Merge Sort]()
-* [Quick Sort]()
+* [Quick Sort](https://github.com/bluisalima/Algoritmos-e-Estruturas-de-Dados1/blob/main/src/quicksort.c)
