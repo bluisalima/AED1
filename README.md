@@ -10,5 +10,5 @@
 ### __Algoritmos de Ordenação__
 * [Insertion Sort](link)
 * [Selection Sort]()
-* [Merge Sort]()
+* [Merge Sort](https://github.com/bluisalima/Algoritmos-e-Estruturas-de-Dados1/blob/main/src/mergesort.c)
 * [Quick Sort](https://github.com/bluisalima/Algoritmos-e-Estruturas-de-Dados1/blob/main/src/quicksort.c)
